@@ -1,0 +1,6 @@
+fastapi==0.115.6
+marker-pdf==1.1.0
+torch==2.5.1
+transformers==4.47.0
+python-multipart==0.0.19
+uvicorn==0.15.0
