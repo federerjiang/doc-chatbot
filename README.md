@@ -4,8 +4,12 @@
 
 - **Backend**: FastAPI with WebSocket support for real-time communication.
 - **Frontend**: React application using Framework7 for UI components.
-- **Local Language Model**: Utilizes Ollama with the __ELYZA-japanese-Llama-2-7b-instruct-gguf__ model, which can be configured to use other models from the Ollama library.
-- **Embedding Model**: Also served by Ollama or OpenAI
+- **LLM**: 
+  - Cloud: OpenAI
+  - Local: Utilizes Ollama with the __ELYZA-japanese-Llama-2-7b-instruct-gguf__ model, which can be configured to use other models from the Ollama library.
+- **Embedding Model**: 
+  - Cloud: OpenAI
+  - Local: Served by Ollama
 
 
 ## Getting Started
