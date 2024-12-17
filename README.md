@@ -39,7 +39,7 @@ Open your web browser and navigate to `http://localhost:3010` to access the fron
 Need to wait for finishing all the pre-processing logic before starting to chat with the bot
 
 
-## Optimzied parts from last month
+## Key points
 - Index: Better pdf parser && chunking
   - Use marker to convert pdf to markdown && preprocess
   - Chunk with more seperators
