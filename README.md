@@ -12,6 +12,10 @@
   - Local: Served by Ollama
 
 
+## Test PDF file
+Replace the pdf files in the `backend/assets` folder with your own pdf files.
+
+
 ## Getting Started
 
 To get the application up and running, follow these steps:
